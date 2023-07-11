@@ -1,0 +1,20 @@
+* {
+  font-family: sans-serif;
+}
+
+html {
+  background: antiquewhite;
+}
+
+body {
+  width: 800px;
+  margin: 0 auto; /* está centralizando o body */
+  padding: 4rem 6rem;
+  background: chocolate;
+  color: white;
+  line-height: 1.75
+}
+
+img {
+  width: 100%;
+}
